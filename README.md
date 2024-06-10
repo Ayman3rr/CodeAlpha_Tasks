@@ -1,1 +1,1 @@
-Data Science CopeAlphaIntern
+Data Science CopeAlpha
